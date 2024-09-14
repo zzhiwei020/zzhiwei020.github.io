@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a website Zhiwei Zhang created for exercise 4 of 521 lab2. About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "zzhiwei020.github.io",
+    "section": "",
+    "text": "Hi! I’m Zhiwei Zhang.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
